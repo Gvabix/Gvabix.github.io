@@ -1,3 +1,22 @@
-theme: jekyll-remote-theme
-title: Interesujące seriale
-description: Przedstawiam według mnie najciekawsze seriale
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            FriendBy
+tagline:          'A Jekyll theme'
+description:      Stronka, krótko opisanego projektu tworzonego przez studentów pierwszego roku Informatyki i Systemów i Inteligentnych na AGH.
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+
